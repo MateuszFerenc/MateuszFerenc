@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MateuszFerenc
+- 👋 Hi, my name is Mateusz Ferenc and I'm form Poland
 - 👀 I’m interested in electronics, old 8-bit computers and nuclear technology
 - 🌱 I’m currently learning automated testing, python and ARM MCU's Assembly
 - 📫 How to reach me, mail me mateoferenc(at)gmail.com
